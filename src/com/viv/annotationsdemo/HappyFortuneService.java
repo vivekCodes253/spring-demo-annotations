@@ -2,7 +2,7 @@ package com.viv.annotationsdemo;
 
 import org.springframework.stereotype.Component;
 
-//@Component
+@Component
 public class HappyFortuneService implements FortuneService {
 
 	@Override
